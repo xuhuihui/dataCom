@@ -1,0 +1,21 @@
+{
+  "name": "vue-repos",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "dependencies": {
+    "element-ui": "^2.3.7",
+    "highlight.js": "^9.12.0",
+    "less-loader": "^4.1.0",
+    "vue": "^2.5.16",
+    "vue-highlight.js": "^2.2.0"
+  },
+  "devDependencies": {
+    "less": "^3.0.2",
+    "vue-echarts": "^3.0.7"
+  }
+}
